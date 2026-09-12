@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# PyInstaller & Build artifacts
+build/
+dist/
+*.spec
+
+# App runtime lock & local config
+.cat_instance.lock
+config.json
+
+# IDEs & System files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=DesktopCat
+Comment=Always-on-top animated desktop companion
+Exec=./start.sh
+Icon=./app_icon.png
+Terminal=false
+Categories=Utility;Amusement;
